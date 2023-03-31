@@ -16,6 +16,3 @@ spring:
     
   application:
     name: CITIZEN-SERVICE
-    
-   application:
-    name: VACSINATION-SERVICE
